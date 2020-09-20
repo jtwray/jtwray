@@ -19,3 +19,4 @@ Here are some ideas to get you started:-->
 
 - ⚡ Fun fact: ... i have 2 project cars a Jeep =| 95 zj | and a Lowrider =| 1978 Lincoln Continental Coupe with white ragtop and fender skirts  
 
+![Tucker's github stats](https://github-readme-stats.vercel.app/api?username=jtwray)
