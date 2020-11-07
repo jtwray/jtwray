@@ -17,6 +17,11 @@ Here are some ideas to get you started:-->
 
 - 📫 How to reach me: ...  email me @ tucker-wray@lambdastudents.com
 
-- ⚡ Fun fact: ... i have 2 project cars a Jeep =| 95 zj | and a Lowrider =| 1978 Lincoln Continental Coupe with white ragtop and fender skirts  
+- ⚡ Fun fact: ... i have 2 project cars 
 
-![Tucker's github stats](https://github-readme-stats.vercel.app/api?username=jtwray) |            [<img src="https://github.com/favicon.ico" width="30"> ](https://github.com/jtwray)   [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30"> ](https://www.linkedin.com/in/jtwray/)  [<img src="https://dev.to/favicon.ico" width="30"> ](https://dev.to/tuckerwray)   [<img src="https://tuckerwray.me/favicon.ico" width="30"> ](https://tuckerwray.me) [<img src="https://codesandbox.io/favicon.ico" width="30"> ](https://codesandbox.io/u/jtwray)  [<img src="https://codepen.io/favicon.ico" width="30"> ](https://codepen.io/jtwray) [<img src="https://stackoverflow.com/favicon.ico" width="30"> ](https://stackoverflow.com/users/10765227/tucker-wray)   | https://tuckerwray-resume-fullstackweb.netlify.app/
+                                     
+|a Jeep 95 zj | and | a Lowrider 1978 Lincoln Continental Coupe with white ragtop and fender skirts |
+|-------|-----|------------|
+| ||<img src="https://i.imgur.com/o5dv9pht.png?1"/>  <img src="https://i.imgur.com/FkXGfYZt.png?1"/>  |
+
+![Tucker's github stats](https://github-readme-stats.vercel.app/api?username=jtwray) |            [<img src="https://github.com/favicon.ico" width="30"> ](https://github.com/jtwray)   [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30"> ](https://www.linkedin.com/in/jtwray/)  [<img src="https://dev.to/favicon.ico" width="30"> ](https://dev.to/tuckerwray)   [<img src="https://tuckerwray.me/favicon.ico" width="30"> ](https://tuckerwray.me) [<img src="https://codesandbox.io/favicon.ico" width="30"> ](https://codesandbox.io/u/jtwray)  [<img src="https://codepen.io/favicon.ico" width="30"> ](https://codepen.io/jtwray) [<img src="https://stackoverflow.com/favicon.ico" width="30"> ](https://stackoverflow.com/users/10765227/tucker-wray)   |<a href="https://tuckerwray-resume-fullstackweb.netlify.app/">resume</a>
