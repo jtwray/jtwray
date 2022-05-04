@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+ [_<img src="https://github.com/jtwray/jtwray/blob/master/devcard.svg"alt="Tucker Wray's Dev Card"/>_](https://app.daily.dev/DailyDevTips)
+[_<img src="https://github.com/favicon.ico" width="30"> ](https://github.com/jtwray)
 <!--
 **jtwray/jtwray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
@@ -33,3 +34,4 @@ Here are some ideas to get you started:-->
 | <!-- ⬇ chart images left column START ⬇ --> <div width="49%">   <img id="ZJ at Rita's" width= "200px" height="auto" src="https://i.imgur.com/651sW9I.jpg?1"/></div><div width="49%"> <img width ="200px" height="auto" id="Diagram of front suspension components under a JEEP ZJ." title="Diagram of front suspension components under a JEEP ZJ." alt="Diagram of front suspension components under a JEEP ZJ." src="https://i.imgur.com/ZOtS421.png?1" />   </div> <!-- ⬇ chart images left column END ⬇ -->  ||  <!-- ⬇ chart images right column START ⬇ --> <div width="49%"> <img id="lincoln at Locke's" width="200px" height="auto" src="https://i.imgur.com/o5dv9pht.png?1"/></div><div width="49%"> <img id="lincoln at Rita's" width= "200px" height="auto" src="https://i.imgur.com/MojkNcd.jpg?1"/> </div>   <!-- ⬇ chart images right column END ⬇ -->  |
 | <!-- ➡details left column START ➡ --> <div width="50%"> a 1995 Jeep ZJ -- "CheapJeep Build"      <ul>  <li>front suspension <ul><li>5.5" coil springs</li> <li>new shocks</li><li>beefy control arms</li> <li>adjustable front trackbar</li> <li>tie rod</li><li>draglink</li>   </ul>     </li>  <li>rear suspension <ul> <li>swapped in front coil springs</li> <li>new shocks</li> <li>beefy control arms (tj takeoffs)</li> <li>adjustable rear trackbar</li> </ul> </li><li> stock 249 transfer case swapped out for rebuilt 242 </li><li> transfer case: stock 249 replaced with rebuilt 242 </li><li>upgraded alternator from Durango 5.9</li><li>'tophat' air filter</li><li>new ignition, locks driver, passenger & rear hatch</li></div><!-- details left column END  ⬅--> |  |  <!-- ➡ details right column START ➡ -->  <div width="50%">1978 Lincoln Continental Coupe - white landau style vinyl top <br>  <li>freeze plugs replaced</li> <li>water pump </li><li>door speakers</li> <li>trunk speakers</li> <li> air compressor </li></div><!-- ⬅ details right column END ⬅ -->   |
      
+
