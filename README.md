@@ -1,5 +1,5 @@
 ### Hi there 👋
- [_<img src="https://github.com/jtwray/jtwray/blob/master/devcard.svg"alt="Tucker Wray's Dev Card"/>_](https://app.daily.dev/DailyDevTips)
+ [_<img src="https://github.com/jtwray/jtwray/blob/main/devcard.svg"alt="Tucker Wray's Dev Card"/>_](https://app.daily.dev/DailyDevTips) 
 [_<img src="https://github.com/favicon.ico" width="30"> ](https://github.com/jtwray)
 <!--
 **jtwray/jtwray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
