@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 
 - 🌱 I’m currently learning ... graph theory and hash tables | native development | React Server Components, Webpack 5 Federations / Microservice Tooling 
 
-- 👯 I’m looking to collaborate on ... OSS movements promoting => kids and code | Clean Energy Advancement | Second Chances | Adult Learning | Opiate Addiction Recovery/Education | conservation of old growth forests really big or really old trees | old books
+- 👯 Interested in collaborting on ... OSS movements promoting => kids and code | Clean Energy Advancement | Second Chances | Adult Learning | Opiate Addiction Recovery/Education | conservation of old growth forests really big or really old trees | old books
 
 - 🤔 I’m looking for help with ... making an impact in the tech industry / the world around me | [increasing my smile to frowns ratio and helping you do the same ](https://www.cnbc.com/2018/02/02/apple-co-founder-steve-wozniaks-simple-formula-for-happiness.html) | learning new skills  
 
